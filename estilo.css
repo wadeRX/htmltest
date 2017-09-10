@@ -1,0 +1,37 @@
+li {
+	background-color: #EB71E7;
+	display: inline;
+
+}
+#h-main {
+
+	background-color: yellow;
+}
+
+#mainnav{
+
+	background-color: purple;
+}
+
+#asidenav{
+
+	background-color: green;
+	float: left;
+	height: 720px;
+
+}
+
+
+#maincontent {
+
+	background-color: blue;
+	margin-left: 155px;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+#mainfooter{
+	background-color: gray;
+	clear: both;
+	margin-top: 50px;
+}
